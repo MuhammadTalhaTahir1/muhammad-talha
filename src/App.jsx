@@ -5,6 +5,7 @@ import Projects from "./components/Projects";
 import Bio from "./components/Bio";
 import Skills from "./components/Skills";
 import WorkExperience from "./components/WorkExperience";
+import EducationSection from "./components/EducationSection";
 
 const App = () => {
   return (
@@ -16,7 +17,8 @@ const App = () => {
         <Projects />
         <Bio />
         <Skills />
-        <WorkExperience/>
+        <WorkExperience />
+        <EducationSection />
       </div>
     </div>
   );
