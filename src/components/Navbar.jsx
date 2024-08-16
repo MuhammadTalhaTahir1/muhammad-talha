@@ -14,7 +14,7 @@ const Navbar = () => {
     const targetElemet = document.querySelector(href);
     if (targetElemet) {
       const offset = -85;
-      const elementPostion = targetElemet.getBoundingClientReact().top;
+      const elementPostion = targetElemet.getBoundingClientRect().top;
       const offsetPosition = elementPostion + window.scrollY + offset;
       window.scrollTo({
         top: offsetPosition,
