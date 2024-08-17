@@ -49,14 +49,6 @@ export const PROJECTS = [
   },
   {
     id: 2,
-    name: "Vender Application",
-    description:
-      "Built & maintained cross-platform (iOS/Android) apps with React Native, simplifying vendor onboarding & chat. Implemented Firebase for login, skills & chat, boosting customer satisfaction by 15% through feedback. Crafted user-friendly interfaces with React Navigation (stack & tab).",
-    image: projectImage2,
-    githubLink: "https://github.com/MuhammadTalhaTahir1/Vender-Application",
-  },
-  {
-    id: 3,
     name: "Weather Wise",
     description:
       "This app offers weather forecasts for cities worldwide. Users can search for locations, view current conditions, and access daily forecasts for the upcoming week in a visually engaging interface.",
@@ -64,12 +56,20 @@ export const PROJECTS = [
     githubLink: "https://github.com/MuhammadTalhaTahir1/Weather_Wise",
   },
   {
-    id: 4,
+    id: 3,
     name: "Note Hub",
     description:
       "It offers seamless note management with real-time search, notifications, and customizable entries. Built-in AsyncStorage ensures reliable offline support, making NoteHub ideal for users across Android, iOS, and web platforms.",
     image: projectImage3,
     githubLink: "https://github.com/MuhammadTalhaTahir1/Note_Hub",
+  },
+  {
+    id: 4,
+    name: "Vender Application",
+    description:
+      "Built & maintained cross-platform (iOS/Android) apps with React Native, simplifying vendor onboarding & chat. Implemented Firebase for login, skills & chat, boosting customer satisfaction by 15% through feedback. Crafted user-friendly interfaces with React Navigation (stack & tab).",
+    image: projectImage2,
+    githubLink: "https://github.com/MuhammadTalhaTahir1/Vender-Application",
   },
   {
     id: 5,
@@ -182,7 +182,7 @@ export const EXPERIENCES = [
     company: "iParagons Technologies",
     duration: "February 2024 - March 2024",
     description:
-      "Gained hands-on experience with React Native CLI projects and Android Studio during this two-month engagement. Maintained and updated an ongoing React Native project, ensuring stability and performance. Implemented Google Mobile Ads into the project, enhancing monetization capabilities. Demonstrated strong problem-solving skills and adaptability in a remote working environment. ",
+      "Maintained and updated an ongoing React Native project, ensuring stability and performance. Implemented Google Mobile Ads into the project, enhancing monetization capabilities. Demonstrated strong problem-solving skills and adaptability in a remote working environment. Gained hands-on experience with React Native CLI projects and Android Studio during this two-month engagement.",
     // description:
     //   "At Digital Creations, I focused on building highly interactive and responsive web interfaces using HTML, CSS, JavaScript, and modern libraries like React. I collaborated closely with UX/UI designers to implement design changes that enhanced user engagement and satisfaction. My role involved optimizing website performance, ensuring cross-browser compatibility, and implementing SEO best practices. ",
   },
@@ -211,6 +211,15 @@ export const EDUCATION = [
     duration: "September 2019 - June 2023",
     description:
       "Focused on application development with a strong emphasis on JavaScript. Successfully completed a final year project on 'Autonomous Vehicle'. Demonstrated practical skills through hands-on experience in building web applications.",
+    // description:
+    //   "Focused on web development, programming languages, and database management. Actively involved in coding clubs and hackathons, where I developed several web applications using HTML, CSS, JavaScript, and PHP. Completed a senior project on developing an e-commerce platform. Graduated with a high GPA.",
+  },
+  {
+    degree: "FSc Pre-Engineering",
+    institution: "Govt. Science College",
+    duration: "September 2017 - June 2019",
+    // description:
+    //   "Focused on application development with a strong emphasis on JavaScript. Successfully completed a final year project on 'Autonomous Vehicle'. Demonstrated practical skills through hands-on experience in building web applications.",
     // description:
     //   "Focused on web development, programming languages, and database management. Actively involved in coding clubs and hackathons, where I developed several web applications using HTML, CSS, JavaScript, and PHP. Completed a senior project on developing an e-commerce platform. Graduated with a high GPA.",
   },

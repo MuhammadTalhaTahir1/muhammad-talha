@@ -8,6 +8,7 @@ import WorkExperience from "./components/WorkExperience";
 import EducationSection from "./components/EducationSection";
 import ContactForm from "./components/ContactForm";
 import Footer from "./components/Footer";
+import Fyp from "./components/Fyp";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
         <Hero />
         <Navbar />
         <Projects />
+        <Fyp />
         {/* <Bio /> */}
         <Skills />
         <WorkExperience />
