@@ -39,7 +39,11 @@ const Fyp = () => {
             className="absolute inset-0 flex flex-col items-center justify-center text-white opacity-0 backdrop-blur-lg transition-opacity duration-500 group-hover:opacity-100"
           >
             <h3 className="mb-2 text-xl ">Autonomous Vehichle</h3>
-            <p className="mb-12 p-4">none</p>
+            <p className="mb-12 p-4">
+              This project develops a self-driving car that navigates using
+              coordinates from a mobile app, leveraging advanced sensors and
+              algorithms for real-time, autonomous operation.
+            </p>
             <a
               className="rounded-full bg-white px-4 py-2 text-black hover:bg-gray-300"
               // href={project.githubLink}

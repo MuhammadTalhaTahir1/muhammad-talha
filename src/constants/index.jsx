@@ -67,7 +67,7 @@ export const PROJECTS = [
     id: 4,
     name: "Vender Application",
     description:
-      "Built & maintained cross-platform (iOS/Android) apps with React Native, simplifying vendor onboarding & chat. Implemented Firebase for login, skills & chat, boosting customer satisfaction by 15% through feedback. Crafted user-friendly interfaces with React Navigation (stack & tab).",
+      "Built & maintained cross-platform apps with React Native, simplifying vendor onboarding & chat. Implemented Firebase for login, skills & chat, boosting customer satisfaction by 15% through feedback. Crafted user-friendly interfaces with React Navigation",
     image: projectImage2,
     githubLink: "https://github.com/MuhammadTalhaTahir1/Vender-Application",
   },
