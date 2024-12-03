@@ -34,7 +34,7 @@ export const HERO = {
   name: "Muhammad Talha Tahir",
   greet: "Hello there! 👋🏻",
   description:
-    "Highly motivated and results-oriented Software Engineer with 1 year of experience building engaging mobile applications using react native. Proven ability to deliver high-quality features and integrate third-party APIs to enhance functionality.",
+    "Highly motivated and results-oriented Software Engineer with upto 1 year of experience building engaging mobile applications using react native. Proven ability to deliver high-quality features and integrate APIs to enhance functionality.",
 };
 
 export const PROJECTS = [
@@ -135,25 +135,25 @@ export const SKILLS = [
 
 export const EXPERIENCES = [
   {
-    title: "React Native Developer intern",
-    company: "Codek Technologies",
-    duration: "April 2024 - June 2024",
+    title: "Associate React Native Developer",
+    company: "The Firstt Sol",
+    duration: "Oct 2024 - Present",
     description:
-      "Gained hands-on experience with React Native projects using TypeScript. Oversaw and enhanced a continuous React Native project, focusing on stability and optimizing performance.Conducted testing and debugging to ensure high-quality application performance. Assisted in the design and development of RESTful APIs to connect applications to back-end services. Engaged in code reviews, offering valuable feedback to enhance code quality. Collaborated in an Agile setting, participating in daily stand-ups, sprint planning sessions, and retrospectives",
+      "Currently working as an Associate React Native Developer during the probation period. Contributing to the development of Oyasis, a social media application and Logistika Urbana, a dilivery app, built from scratch using React Native and TypeScript. Developing features for seamless user experiences. Collaborating on core functionalities, including user interactions.",
   },
   {
     title: "React Native Developer (remote)",
     company: "iParagons Technologies",
-    duration: "February 2024 - March 2024",
+    duration: "July 2024 - Sept 2024",
     description:
-      "Maintained and updated an ongoing React Native project, ensuring stability and performance. Implemented Google Mobile Ads into the project, enhancing monetization capabilities. Demonstrated strong problem-solving skills and adaptability in a remote working environment. Gained hands-on experience with React Native CLI projects and Android Studio during this two-month engagement.",
+      "Gained hands-on experience with React Native CLI projects and Android Studio during this tenure. Maintained and updated an ongoing React Native project, ensuring stability and performance. Implemented Google Mobile Ads into the project, enhancing monetization capabilities. Demonstrated strong problem-solving skills and adaptability in a remote working environment.",
   },
   {
     title: "React Native Developer intern",
-    company: "ITS Gujrat ",
-    duration: "August 2022 - December 2022",
+    company: "Codek Technologies",
+    duration: "April 2024 - June 2024",
     description:
-      "Developed and maintained mobile applications ( iOS,  Android ) using React Native, streamlining vendor onboarding and customer communication. Leveraged Firebase for user authentication and skill management, enabling direct customer-vendor chat. Implemented a customer feedback system, resulting in 15% improvement in satisfaction scores. Utilized React Navigation (stack, tab) to craft user-friendly interfaces.",
+      "Gained hands-on experience with React Native projects using TypeScript. Oversaw and enhanced a continuous React Native project, focusing on stability and optimizing performance. Conducted testing and debugging to ensure high-quality application performance. Engaged in code reviews, offering valuable feedback to enhance code quality. Collaborated in an Agile setting, participating in daily stand-ups, sprint planning sessions.",
   },
 ];
 
